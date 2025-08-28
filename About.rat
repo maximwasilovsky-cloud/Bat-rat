@@ -1,0 +1,52 @@
+🦇 Bat-Rat RAT
+
+A lightweight, modular remote administration tool controlled via Telegram/Discord/C2 server.
+
+--
+
+🔥 Capabilities (Hypothetical Feature List):
+
+1. 📁 File System Explorer
+   · Download/upload/filesystem navigation
+   · Execute/delete/rename files remotely
+
+
+2. ⌨️ Keylogger & Clipboard Hijacker
+   · Logs keystrokes (passwords, messages)
+   · Steals clipboard content (crypto addresses, texts)
+
+
+3. 🎥 Camera & Microphone Capture
+   · Stream/webcam snapshots without LED indicator
+   · Record audio from microphone
+
+
+4. 🌐 Browser Data Extraction
+   · Pull passwords, cookies, history (Chrome, Firefox, Edge)
+   · Grab autofill data & credit card info
+
+
+5. 📱 Social Media & Messenger Hijack
+   · Export Telegram/WhatsApp/Discord chats
+   · Session hijacking for logged-in accounts
+
+
+6. 🖥️ System Control & Recon
+   · Remote CMD/PowerShell execution
+   · Process list/kill | Screenshot capture | OS info harvesting
+
+
+7. 🔗 Persistence & Stealth
+   · Install itself as a service/task
+   · Hide processes | Bypass basic AV signatures
+
+
+8. 📡 C2 Communication (Encrypted)
+   · Telegram bot control / Discord webhooks
+   · Dynamic DNS-based backup servers
+
+---
+
+⚠️ Disclaimer (!!):
+
+This is a fictional overview for educational purposes only. Creating, distributing, or using such tools is illegal and unethical. Stay on the right side of the code — protect systems, don’t break them.
